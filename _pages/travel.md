@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "Observing!"
+title: "Observing and Travel Pictures!"
 permalink: /travel/
 author_profile: true
 classes: wide
 ---
-
-Observing!
 
 -4 nights using QWSSI on Lowell Discovery Telescope
 
