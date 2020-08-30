@@ -11,3 +11,5 @@ arxiv: 2004.07768
 bibcode: 2020PASP..132e4201V
 publ: true
 ---
+
+Contributions - I contributed on a discussion of the common proper motion pairs in this sample of stars
