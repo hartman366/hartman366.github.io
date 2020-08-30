@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Zachary Hartman"
-  avatar           : ""
+  avatar           : "images/profile.jpg"
   bio              : "Astronomy PhD student working at Lowell Observatory and Georgia State University on statistics of wide stellar binaries"
   location         : 
   employer         : "Lowell Observatory/ Georgia State University"
