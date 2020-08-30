@@ -16,6 +16,8 @@ Over the course of the past 5 years, I have been a graduate student at Georgia S
 
 Over the past two years, I have been working with Dr. Gerard van Belle at Lowell Observatory to observe the wide pairs I have identified with speckle imaging.  The goal is to find unresolved companions in these systems and determine how many triples, quadruples, etc. there are.  This may allow us to constrain the possible formation scenarios for these wide binaries.
 
+Recently, I have also expanded this search to TESS and Kepler light curves, hoping to find eclipsing binaries and fast rotators.  This search has already yielded some interesting results which I am in the process of writing up!
+
 
 ## Personal
 I am an avid gamer, whether that means board games, video games or Dungeons and Dragons.  Strategy games are my preferred type of game, with Risk being one of my favorite games.  I run and participate in several DnD games every week, which helps me stay sane.  
