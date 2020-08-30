@@ -324,12 +324,12 @@ defaults:
       layout: single-talk
       author_profile: true
   # _code
-  - scope:
-      path: ""
-      type: code
-    values:
-      layout: single-code
-      author_profile: true
+  #- scope:
+  #    path: ""
+  #    type: code
+  #  values:
+  #    layout: single-code
+  #    author_profile: true
   # _travel
   - scope:
       path: ""
