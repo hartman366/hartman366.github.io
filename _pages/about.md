@@ -20,5 +20,6 @@ Over the past two years, I have been working with Dr. Gerard van Belle at Lowell
 ## Personal
 I am an avid gamer, whether that means board games, video games or Dungeons and Dragons.  Strategy games are my preferred type of game, with Risk being one of my favorite games.  I run and participate in several DnD games every week, which helps me stay sane.  
 
-Also, Red pandas are the best.
+Also, red pandas are the best.
 <img src="../images/red_panda_cbus_zoo_2.jpg" alt="Red panda at Columbus zoo" class="center">
+<img src="../images/rp1.jpg" alt="Red panda at Columbus zoo" class="center">
