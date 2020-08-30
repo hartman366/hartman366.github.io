@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"Erika Lynn Wagoner"
+title                    : #"Zachary Hartman"
 title_separator          : "-"
-name                     : "Erika Lynn Wagoner"
-description              : "Erika's academic homepage"
-url                      : "https://wagoner47.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Zachary Hartman"
+description              : "Zach's academic homepage"
+url                      : "https://hartman366.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "wagoner47/wagoner47.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "hartman366/hartman366.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -100,29 +100,29 @@ analytics:
 
 # Site Author
 author:
-  name             : "Erika Lynn Wagoner"
-  avatar           : "images/Erika_Wagoner_in_Chile.JPG"
-  bio              : "Physics PhD student working in cosmology and astrophysics"
+  name             : "Zachary Hartman"
+  avatar           : ""
+  bio              : "Astronomy PhD student working at Lowell Observatory and Georgia State University on statistics of wide stellar binaries"
   location         : 
-  employer         : "University of Arizona"
-  email            : "wagoner47@email.arizona.com"
+  employer         : "Lowell Observatory/ Georgia State University"
+  email            : "hartman@astro.gsu.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        : "wagoner47"
+  bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wagoner47"
+  github           : 
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "erika-lynn-wagoner-138178188" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  googlescholar    : "https://scholar.google.com/citations?user=9ffsq-UAAAAJ&hl=en"
-  orcid            : "0000-0002-9461-944X"
+  linkedin         : 
+  googlescholar    : "https://scholar.google.com/citations?user=7udjSB0AAAAJ&hl=en"
+  orcid            : "0000-0002-0786-7307"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
