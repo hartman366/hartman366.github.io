@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 classes: wide
 ---
+
+rawr
+
 ## Professional
 
 My main interest in Astronomy has been the study of binary stars and multiple stellar systems.  I went to Ohio State University for my undergraduate studies.  There, I worked on two projects, one on the IceCube detector with Dr. Carsten Rott, and the other examining sdB+dM binaries with Dr. Don Terndrup.  These binaries have periods on the order of hours and exhibit a strong reflection effect as the stars are tidally locked.  This work resulted in a poster at the Winter 2015 AAS meeting and a undergraduate thesis.
