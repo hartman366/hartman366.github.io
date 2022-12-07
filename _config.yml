@@ -102,10 +102,10 @@ analytics:
 author:
   name             : "Zachary Hartman"
   avatar           : "images/profile.jpg"
-  bio              : "Astronomy PhD student working at Lowell Observatory and Georgia State University on statistics of wide stellar binaries"
+  bio              : "Science fellow at Gemini North Observatory."
   location         : 
-  employer         : "Lowell Observatory/ Georgia State University"
-  email            : "hartman@astro.gsu.edu"
+  employer         : "Gemini Observatory/NSF's NOIRLab"
+  email            : "zachary.hartman@noirlab.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        : 
@@ -121,7 +121,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : 
-  googlescholar    : "https://scholar.google.com/citations?user=7udjSB0AAAAJ&hl=en"
+  googlescholar    : 
   orcid            : "0000-0002-0786-7307"
   pinterest        :
   soundcloud       :
