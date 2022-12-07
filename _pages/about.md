@@ -19,13 +19,10 @@ My main interest in astronomy has been the study of binary stars and multiple st
 
 After graduating from Ohio State in Spring 2015, I joined the graduate program at Georgia State University in the Fall of 2015.  My research has focused on the identification of wide (visual) binary stars in large catalogs using Bayesian analysis with Dr. Sebastien Lepine at Georgia State.  My work first focused on the SUPERBLINK high proper motion catalog but then turned to Gaia DR2 as soon as that became available.  The result of this work is a catalog of roughly 99,000 wide binaries that have a high probability of being gravitationally bound pairs.  
 
-Over the past two years, I have been working with Dr. Gerard van Belle at Lowell Observatory as a predoctoral fellow to observe the wide pairs I have identified with speckle imaging.  The goal is to find unresolved companions in these systems and determine how many triples, quadruples, etc. there are.  This may allow us to constrain the possible formation scenarios for these wide binaries.
-
-Recently, I have also expanded this search to TESS and Kepler light curves, hoping to find eclipsing binaries and fast rotators.  This search has already yielded some interesting results which I am in the process of writing up!
-
+Starting in 2018, I have been working with Dr. Gerard van Belle at Lowell Observatory as a predoctoral fellow to observe the wide pairs I have identified with speckle imaging.  The goal is to find unresolved companions in these systems and determine how many triples, quadruples, etc. there are.  This may allow us to constrain the possible formation scenarios for these wide binaries.  This work has since expanded to an analysis of TESS and Kepler light curves to find eclipsing binaries and fast rotators.  The result of this work was our discovery of a relation in the overluminosity of wide binary components to find unresolved companions in K+K wide binaries and is the subject of my 2022 paper.
 
 ## Personal
-I am an avid gamer, whether that means board games, video games or Dungeons and Dragons.  Strategy games are my preferred type of game, with Risk being one of my favorite games.  I run and participate in several DnD games every week, which helps me stay sane.  
+I am an avid gamer, whether that means board games, video games or Dungeons & Dragons.
 
 Also, red pandas are the best.
 <img src="../images/red_panda_cbus_zoo_2.jpg" alt="Red panda at Columbus zoo" class="center">
