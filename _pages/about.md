@@ -21,6 +21,8 @@ After graduating from Ohio State in Spring 2015, I joined the graduate program a
 
 Starting in 2018, I have been working with Dr. Gerard van Belle at Lowell Observatory as a predoctoral fellow to observe the wide pairs I have identified with speckle imaging.  The goal is to find unresolved companions in these systems and determine how many triples, quadruples, etc. there are.  This may allow us to constrain the possible formation scenarios for these wide binaries.  This work has since expanded to an analysis of TESS and Kepler light curves to find eclipsing binaries and fast rotators.  The result of this work was our discovery of a relation in the overluminosity of wide binary components to find unresolved companions in K+K wide binaries and is the subject of my 2022 paper.
 
+As of July 2021, I am now a science fellow at Gemini North Observatory.  This position is a 50% Research/ 50% functional position.  I am continuing my research into wide binary stellar systems, while also starting a speckle survey of nearby Galactic halo stars in collaboration with several different groups at UCLA and Georgia State University.  My functional work includes being a part of the `Alopeke, NIRI and fast-turnaround teams and I am phase II suport for accepted Gemini proposals. 
+
 ## Personal
 I am an avid gamer, whether that means board games, video games or Dungeons & Dragons.
 
