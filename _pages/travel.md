@@ -5,8 +5,13 @@ permalink: /travel/
 author_profile: true
 classes: wide
 ---
+-4 nights using ShARCS on Lick Observatory
 
--4 nights using QWSSI on Lowell Discovery Telescope
+-8 officially scheduled queue observing nights on Gemini South
+
+-41 officially scheduled queue observing nights on Gemini North
+
+-20 nights using QWSSI on Lowell Discovery Telescope
 
 -13 nights using DSSI on Lowell Discovery Telescope (LDT)
 
