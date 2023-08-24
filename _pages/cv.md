@@ -13,4 +13,4 @@ a.uline {text-decoration:underline;}
 
 {% include base_path %}
 
-<a href="../files/hartmancv_082020.pdf" class="uline">Click here for a pdf copy of my CV</a>
+<a href="../files/HartmanCV.pdf" class="uline">Click here for a pdf copy of my CV</a>
