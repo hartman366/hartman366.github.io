@@ -5,7 +5,7 @@ permalink: /travel/
 author_profile: true
 classes: wide
 ---
--4 nights using ShARCS on Lick Observatory
+-5 nights using ShARCS on Lick Observatory
 
 -8 officially scheduled queue observing nights on Gemini South
 
