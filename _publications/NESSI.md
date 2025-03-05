@@ -8,5 +8,3 @@ date: 2025-02-13
 venue: Submitted
 publ: true
 ---
-
-Contributions - I contributed on a discussion of the common proper motion pairs in this sample of stars
