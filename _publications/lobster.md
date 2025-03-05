@@ -12,4 +12,3 @@ bibcode: 2022ApJ...934...72H
 publ: true
 ---
 
-Contributions - This is my work.
