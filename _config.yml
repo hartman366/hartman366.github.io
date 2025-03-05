@@ -102,10 +102,10 @@ analytics:
 author:
   name             : "Zachary Hartman"
   avatar           : "images/profile.jpg"
-  bio              : "Science fellow at Gemini North Observatory."
+  bio              : "NASA Postdoctoral Fellow at NASA Ames"
   location         : 
-  employer         : "Gemini Observatory/NSF's NOIRLab"
-  email            : "zachary.hartman@noirlab.edu"
+  employer         : "ORAU/ NASA Ames"
+  email            : "zachary.hartman366@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        : 
